@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\usecases\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\usecases\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\usecases\\offerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\usecases\\offerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\interfaces\\iofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\interfaces\\iofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\presentation\\project1.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|solutionrelative:presentation\\project1.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\presentation\\project1.webapi\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|solutionrelative:presentation\\project1.webapi\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\presentation\\project1.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|solutionrelative:presentation\\project1.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82EC5B15-20EB-4B0B-9833-72123C49E134}|docker-compose.dcproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82EC5B15-20EB-4B0B-9833-72123C49E134}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\presentation\\project1.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|solutionrelative:presentation\\project1.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\usecases\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\usecases\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\presentation\\project1.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|solutionrelative:presentation\\project1.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA9042-4FE2-4060-BA69-0F990B12403E}|Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\infrastructure\\project1.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA9042-4FE2-4060-BA69-0F990B12403E}|Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj|solutionrelative:infrastructure\\project1.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\dtos\\offerdtos\\createofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\dtos\\offerdtos\\createofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\dtos\\itemdtos\\createitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\dtos\\itemdtos\\createitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\dtos\\itemdtos\\getallitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\dtos\\itemdtos\\getallitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82EC5B15-20EB-4B0B-9833-72123C49E134}|docker-compose.dcproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{82EC5B15-20EB-4B0B-9833-72123C49E134}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82EC5B15-20EB-4B0B-9833-72123C49E134}|docker-compose.dcproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82EC5B15-20EB-4B0B-9833-72123C49E134}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\presentation\\project1.webapi\\project1.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|solutionrelative:presentation\\project1.webapi\\project1.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\presentation\\project1.webapi\\project1.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|solutionrelative:presentation\\project1.webapi\\project1.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA9042-4FE2-4060-BA69-0F990B12403E}|Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\infrastructure\\project1.persistence\\project1.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58CA9042-4FE2-4060-BA69-0F990B12403E}|Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj|solutionrelative:infrastructure\\project1.persistence\\project1.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA9042-4FE2-4060-BA69-0F990B12403E}|Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\infrastructure\\project1.persistence\\context\\project1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA9042-4FE2-4060-BA69-0F990B12403E}|Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj|solutionrelative:infrastructure\\project1.persistence\\context\\project1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA9042-4FE2-4060-BA69-0F990B12403E}|Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\infrastructure\\project1.persistence\\migrations\\20241128013705_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA9042-4FE2-4060-BA69-0F990B12403E}|Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj|solutionrelative:infrastructure\\project1.persistence\\migrations\\20241128013705_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\presentation\\project1.webapi\\controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71706DF-122C-4402-B4BA-B5B1246D2EEF}|Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj|solutionrelative:presentation\\project1.webapi\\controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\dtos\\loginregisterdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\dtos\\loginregisterdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3275A42E-F977-4783-9668-42C3FFD7DBCA}|Core\\Project1.Domain\\Project1.Domain.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3275A42E-F977-4783-9668-42C3FFD7DBCA}|Core\\Project1.Domain\\Project1.Domain.csproj|solutionrelative:core\\project1.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3275A42E-F977-4783-9668-42C3FFD7DBCA}|Core\\Project1.Domain\\Project1.Domain.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.domain\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3275A42E-F977-4783-9668-42C3FFD7DBCA}|Core\\Project1.Domain\\Project1.Domain.csproj|solutionrelative:core\\project1.domain\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\dtos\\offerdtos\\getbyidofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\dtos\\offerdtos\\getbyidofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\dtos\\offerdtos\\getalloffersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\dtos\\offerdtos\\getalloffersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\dtos\\itemdtos\\getbyiditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\dtos\\itemdtos\\getbyiditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\dtos\\loginregisterdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\dtos\\loginregisterdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3275A42E-F977-4783-9668-42C3FFD7DBCA}|Core\\Project1.Domain\\Project1.Domain.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3275A42E-F977-4783-9668-42C3FFD7DBCA}|Core\\Project1.Domain\\Project1.Domain.csproj|solutionrelative:core\\project1.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3275A42E-F977-4783-9668-42C3FFD7DBCA}|Core\\Project1.Domain\\Project1.Domain.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.domain\\entities\\itemproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3275A42E-F977-4783-9668-42C3FFD7DBCA}|Core\\Project1.Domain\\Project1.Domain.csproj|solutionrelative:core\\project1.domain\\entities\\itemproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\core\\project1.application\\project1.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B50AFDA1-F4FD-47FB-AD83-2902606E86D6}|Core\\Project1.Application\\Project1.Application.csproj|solutionrelative:core\\project1.application\\project1.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CA9042-4FE2-4060-BA69-0F990B12403E}|Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj|c:\\users\\asus\\desktop\\tr yaz\u0131l\u0131m\\tryazilim\\infrastructure\\project1.persistence\\migrations\\20250121091226_updatatables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CA9042-4FE2-4060-BA69-0F990B12403E}|Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj|solutionrelative:infrastructure\\project1.persistence\\migrations\\20250121091226_updatatables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Project1.WebAPI\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Presentation\\Project1.WebAPI\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:12:47.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Project1.WebAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Presentation\\Project1.WebAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:00:59.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\UseCases\\ItemService.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\UseCases\\ItemService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\UseCases\\ItemService.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\UseCases\\ItemService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAewB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:21:51.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OfferService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\UseCases\\OfferService.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\UseCases\\OfferService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\UseCases\\OfferService.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\UseCases\\OfferService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:54:36.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOfferService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Interfaces\\IOfferService.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Interfaces\\IOfferService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Interfaces\\IOfferService.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Interfaces\\IOfferService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:21:31.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Interfaces\\IItemService.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Interfaces\\IItemService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Interfaces\\IItemService.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Interfaces\\IItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:23:53.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\Project1.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Presentation\\Project1.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T08:57:37.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-21T20:04:11.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Presentation\\Project1.WebAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Dockerfile",
+              "RelativeToolTip": "Presentation\\Project1.WebAPI\\Dockerfile",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-21T19:54:40.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\UseCases\\UserService.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\UseCases\\UserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\UseCases\\UserService.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\UseCases\\UserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:33:26.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\ItemDtos\\CreateItemDto.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Dtos\\ItemDtos\\CreateItemDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\ItemDtos\\CreateItemDto.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Dtos\\ItemDtos\\CreateItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:12:12.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAE4TAAAAAAAAAAAwwGYTAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-21T09:10:25.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Project1.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Program.cs",
+              "RelativeToolTip": "Presentation\\Project1.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:59:17.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Infrastructure\\Project1.Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Project1.Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Infrastructure\\Project1.Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Project1.Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:41:44.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateOfferDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\OfferDtos\\CreateOfferDto.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Dtos\\OfferDtos\\CreateOfferDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\OfferDtos\\CreateOfferDto.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Dtos\\OfferDtos\\CreateOfferDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:17:47.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:19:43.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAllItemsDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\ItemDtos\\GetAllItemsDto.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Dtos\\ItemDtos\\GetAllItemsDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\ItemDtos\\GetAllItemsDto.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Dtos\\ItemDtos\\GetAllItemsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:15:04.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-21T20:04:10.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T20:04:13.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAJsBAAAAAAAAAAAmwKgBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-01T23:56:15.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Project1.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj",
+              "RelativeToolTip": "Presentation\\Project1.WebAPI\\Project1.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T19:51:14.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Project1.WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Project1.WebAPI.http",
+              "RelativeDocumentMoniker": "Presentation\\Project1.WebAPI\\Project1.WebAPI.http",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Project1.WebAPI.http",
+              "RelativeToolTip": "Presentation\\Project1.WebAPI\\Project1.WebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-21T08:53:34.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:05:01.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Project1DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Infrastructure\\Project1.Persistence\\Context\\Project1DbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Project1.Persistence\\Context\\Project1DbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Infrastructure\\Project1.Persistence\\Context\\Project1DbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Project1.Persistence\\Context\\Project1DbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:39:27.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Project1.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj",
+              "RelativeToolTip": "Infrastructure\\Project1.Persistence\\Project1.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T23:37:04.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241128013705_createtables.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Infrastructure\\Project1.Persistence\\Migrations\\20241128013705_createtables.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Project1.Persistence\\Migrations\\20241128013705_createtables.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Infrastructure\\Project1.Persistence\\Migrations\\20241128013705_createtables.cs",
+              "RelativeToolTip": "Infrastructure\\Project1.Persistence\\Migrations\\20241128013705_createtables.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:37:06.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250121091226_updatatables.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Infrastructure\\Project1.Persistence\\Migrations\\20250121091226_updatatables.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Project1.Persistence\\Migrations\\20250121091226_updatatables.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Infrastructure\\Project1.Persistence\\Migrations\\20250121091226_updatatables.cs",
+              "RelativeToolTip": "Infrastructure\\Project1.Persistence\\Migrations\\20250121091226_updatatables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:12:26.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OfferController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Controllers\\OfferController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Project1.WebAPI\\Controllers\\OfferController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Presentation\\Project1.WebAPI\\Controllers\\OfferController.cs",
+              "RelativeToolTip": "Presentation\\Project1.WebAPI\\Controllers\\OfferController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAjwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:08:10.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\LoginRegisterDtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Dtos\\LoginRegisterDtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\LoginRegisterDtos\\LoginDto.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Dtos\\LoginRegisterDtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:12:36.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Core\\Project1.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:42:51.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Domain\\Entities\\Offer.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Domain\\Entities\\Offer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Domain\\Entities\\Offer.cs",
+              "RelativeToolTip": "Core\\Project1.Domain\\Entities\\Offer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:49:24.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetByIdOfferDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\OfferDtos\\GetByIdOfferDto.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Dtos\\OfferDtos\\GetByIdOfferDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\OfferDtos\\GetByIdOfferDto.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Dtos\\OfferDtos\\GetByIdOfferDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:20:29.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetAllOffersDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\OfferDtos\\GetAllOffersDto.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Dtos\\OfferDtos\\GetAllOffersDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\OfferDtos\\GetAllOffersDto.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Dtos\\OfferDtos\\GetAllOffersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:20:11.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetByIdItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\ItemDtos\\GetByIdItemDto.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Dtos\\ItemDtos\\GetByIdItemDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\ItemDtos\\GetByIdItemDto.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Dtos\\ItemDtos\\GetByIdItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:15:20.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\LoginRegisterDtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Dtos\\LoginRegisterDtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Dtos\\LoginRegisterDtos\\RegisterDto.cs",
+              "RelativeToolTip": "Core\\Project1.Application\\Dtos\\LoginRegisterDtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:13:08.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Domain\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Domain\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Domain\\Entities\\Item.cs",
+              "RelativeToolTip": "Core\\Project1.Domain\\Entities\\Item.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:52:51.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ItemProperty.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Domain\\Entities\\ItemProperty.cs",
+              "RelativeDocumentMoniker": "Core\\Project1.Domain\\Entities\\ItemProperty.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Domain\\Entities\\ItemProperty.cs",
+              "RelativeToolTip": "Core\\Project1.Domain\\Entities\\ItemProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:28:28.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Project1.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Project1.Application.csproj",
+              "RelativeDocumentMoniker": "Core\\Project1.Application\\Project1.Application.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TR Yaz\u0131l\u0131m\\TrYazilim\\Core\\Project1.Application\\Project1.Application.csproj",
+              "RelativeToolTip": "Core\\Project1.Application\\Project1.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T22:04:29.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

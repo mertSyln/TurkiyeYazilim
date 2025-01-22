@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim\Core\Project1.Domain\bin\Debug\net8.0\Project1.Domain.deps.json
+C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim\Core\Project1.Domain\bin\Debug\net8.0\Project1.Domain.dll
+C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim\Core\Project1.Domain\bin\Debug\net8.0\Project1.Domain.pdb
+C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim\Core\Project1.Domain\obj\Debug\net8.0\Project1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim\Core\Project1.Domain\obj\Debug\net8.0\Project1.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim\Core\Project1.Domain\obj\Debug\net8.0\Project1.Domain.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim\Core\Project1.Domain\obj\Debug\net8.0\Project1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim\Core\Project1.Domain\obj\Debug\net8.0\Project1.Domain.dll
+C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim\Core\Project1.Domain\obj\Debug\net8.0\refint\Project1.Domain.dll
+C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim\Core\Project1.Domain\obj\Debug\net8.0\Project1.Domain.pdb
+C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim\Core\Project1.Domain\obj\Debug\net8.0\ref\Project1.Domain.dll

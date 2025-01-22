@@ -1,0 +1,26 @@
+version: "3.9"
+
+services:
+  project1.webapi:
+    image: project1webapi
+    build:
+      context: .
+      dockerfile: Presentation/Project1.WebAPI/Dockerfile
+    environment:
+      - ConnectionStrings:DefaultConnection=Host=project1-db;Port=5432;Database=Project1DB;User ID=postgres;Password=10Balkes.
+    depends_on:
+      - project1-db
+
+  project1-db:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 10Balkes.
+      POSTGRES_DB: Project1DB
+    ports:
+      - "5432:5432"
+    volumes:
+      - project1_db_data:/var/lib/postgresql/data
+
+volumes:
+  project1_db_data:

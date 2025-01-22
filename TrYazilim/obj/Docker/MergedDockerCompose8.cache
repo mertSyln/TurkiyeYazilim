@@ -1,0 +1,63 @@
+name: dockercompose441413832720186882
+services:
+  project1-db:
+    container_name: project1-db
+    environment:
+      POSTGRES_DB: project1db
+      POSTGRES_PASSWORD: yourpassword
+      POSTGRES_USER: postgres
+    image: postgres:latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: project1_db_data
+        target: /var/lib/postgresql/data
+        volume: {}
+  project1.webapi:
+    build:
+      context: C:\Users\ASUS\Desktop\TR Yazılım\TrYazilim
+      dockerfile: Presentation\Project1.WebAPI\Dockerfile
+    depends_on:
+      project1-db:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ConnectionStrings__DefaultConnection: Host=project1-db;Port=5432;Database=project1db;Username=postgres;Password=yourpassword
+    image: project1webapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\ASUS\AppData\Roaming/Microsoft/UserSecrets
+        target: C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\ASUS\AppData\Roaming/ASP.NET/Https
+        target: C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose441413832720186882_default
+volumes:
+  project1_db_data:
+    name: dockercompose441413832720186882_project1_db_data
